@@ -1,0 +1,21 @@
+node_id,location_type,cost_category,measurement,sensor_name,manufacturer,board_assembler
+node_3,outdoor,low-cost,temperature/humidity,SHT45,Sensirion,Adafruit
+node_3,outdoor,low-cost,voc_index,SGP40,Sensirion,Adafruit
+node_3,outdoor,low-cost,co/no2,Grove Multichannel Gas Sensor v2,Winsen (chips),Seeed Studio
+node_3,outdoor,low-cost,ozone,MQ131,Winsen,Generic board FC-22
+node_3,outdoor,low-cost,pm2_5/pm10,SPS30,Sensirion,Sensirion
+node_3,outdoor,mid-cost,co,Alphasense CO-B4,Alphasense,4-Electrode Individual Sensor Board (ISB)
+node_3,outdoor,mid-cost,no2,Alphasense NO2-B43F,Alphasense,4-Electrode Individual Sensor Board (ISB)
+node_3,outdoor,mid-cost,ozone,Alphasense OX-B431,Alphasense,4-Electrode Individual Sensor Board (ISB)
+node_5,outdoor,low-cost,temperature/humidity,SHT45,Sensirion,Adafruit
+node_5,outdoor,low-cost,voc_index,SGP40,Sensirion,Adafruit
+node_5,outdoor,low-cost,co/no2,Grove Multichannel Gas Sensor v2,Winsen (chips),Seeed Studio
+node_5,outdoor,low-cost,ozone,MQ131,Winsen,Generic board FC-22
+node_5,outdoor,low-cost,pm2_5/pm10,SPS30,Sensirion,Sensirion
+node_5,outdoor,mid-cost,co,Alphasense CO-B4,Alphasense,4-Electrode Individual Sensor Board (ISB)
+node_5,outdoor,mid-cost,no2,Alphasense NO2-B43F,Alphasense,4-Electrode Individual Sensor Board (ISB)
+node_5,outdoor,mid-cost,ozone,Alphasense OX-B431,Alphasense,4-Electrode Individual Sensor Board (ISB)
+node_TowerHamlets_TH2,outdoor,high-cost,no2,NaN,Met One Instruments,Government Reference Station TH2
+node_TowerHamlets_TH2,outdoor,high-cost,pm2_5,NaN,Met One Instruments,Government Reference Station TH2
+node_TowerHamlets_TH7,outdoor,high-cost,no2,NaN,Met One Instruments,Government Reference Station TH7
+node_TowerHamlets_TH7,outdoor,high-cost,pm2_5,NaN,Met One Instruments,Government Reference Station TH7

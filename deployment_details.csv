@@ -1,0 +1,5 @@
+node_id,location,specific_location,location_type,environment,latitude,longitude,reference_station,reference_distance_m,available_sensors,deployment_notes
+node_3,QMUL,Mile End Road,Outdoor,Roadside - Urban Traffic,51.522530,-0.042155,TH2 (QMUL Mile End Road),0m,"low_cost, mid_cost",Multi-tier sensor node co-located with reference station TH2 (QMUL Mile End Road)
+node_5,King Edward Memorial Park,Glamis Rd & A1203,Outdoor,Roadside - Urban Traffic,51.509477,-0.050541,TH7 (King Edward Memorial Park),0m,"low_cost, mid_cost",Multi-tier sensor node co-located with reference station TH7 (King Edward Memorial Park)
+node_TowerHamlets_TH2,QMUL,Mile End Road,Outdoor,Roadside - Urban Traffic,51.522530,-0.042155,Self,0m,high_cost,DEFRA/AURN reference station TH2 (QMUL Mile End Road) - co-located with node_3
+node_TowerHamlets_TH7,King Edward Memorial Park,Glamis Rd & A1203,Outdoor,Roadside - Urban Traffic,51.509477,-0.050541,Self,0m,high_cost,DEFRA/AURN reference station TH7 (King Edward Memorial Park) - co-located with node_5
