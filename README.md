@@ -55,8 +55,8 @@ This repository contains data and documentation for Abigail's MSc project compar
 ├── data_dictionary.md           # Detailed data documentation
 ├── deployment_details.csv       # Sensor deployment information
 ├── sensor_specifications.csv    # Technical sensor specifications
-├── node_3/                     # Data from QMUL Mile End Road
-│   ├── low_cost/               # Low-cost sensor data
+├── node_3/                      # Data from QMUL Mile End Road
+│   ├── low_cost/                # Low-cost sensor data
 │   │   ├── temperature.csv
 │   │   ├── humidity.csv
 │   │   ├── particles_pm2_5.csv
