@@ -47,3 +47,6 @@ ENV/
 *.bak
 *.swp
 *~
+
+# Project scripts (exclude helper scripts from VCS)
+scripts/
